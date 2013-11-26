@@ -1,7 +1,7 @@
 Tetris
 ======
 
-Classic Tetris game written in Java.
+A classic Tetris game written in Java.
 <br/><br/>
 Special features:
 <ul>
