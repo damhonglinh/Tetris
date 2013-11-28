@@ -1,0 +1,55 @@
+type = 1: red
+	inner-1: 215,15,55
+	inner-2: 254,78,113 -----
+	inner-3: 247,32,57
+	left: 255,181,181
+	right: 199,14,51
+	borderColor: 158,12,41
+	
+type = 2 : cyan
+	inner-1: 15,155,215
+	inner-2: 33,190,255 -----
+	inner-3: 9,174,247
+	left: 95,206,254
+	right: 9,140,196
+	borderColor: 2,88,108
+	
+type = 3 : blue
+	inner-1: 33,65,198
+	inner-2: 47,114,220 -----
+	inner-3: 33,89,222
+	left: 71,134,226
+	right: 27,70,169
+	borderColor: 1,36,118
+	
+type = 4 : yellow
+	inner-1: 255,194,37
+	inner-2: 255,234,76
+	inner-3: 255,217,59
+	left: 255,249,155
+	right: 255,177,37
+	borderColor: 153,102,0
+	
+type = 5 : green
+	inner-1: 89,177,1
+	inner-2: 128,211,22
+	inner-3: 99,199,16
+	left: 182,236,108
+	right: 84,162,13
+	borderColor: 2,92,1
+	
+type = 6 : purpil
+	inner-1: 210,76,173
+	inner-2: 246,93,220
+	inner-3: 232,76,201
+	left: 254,131,242
+	right: 189,68,166
+	borderColor: 102,0,102
+	
+type = 7 :orange
+	inner-1: 253,102,2
+	inner-2: 252,148,46
+	inner-3: 255,121,0
+	left: 254,168,85
+	right: 219,88,2
+	borderColor: 153,51,0
