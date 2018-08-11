@@ -1,17 +1,15 @@
 Tetris
 ======
 
-A classic Tetris game written in Java.
-<br/><br/>
-Special features:
-<ul>
-	<li>Best scores are stored on cloud</li>
-	<li>Intuitive effect sounds</li>
-	<li>Support Java applet to be run on web browser</li>
-</ul>
+A classic Tetris game written in Java. It is not as fancy as others but it's smooth, fast and portable (just copy the `Tetris.exe` and open it). 
 
-<br/>
-Hot keys:
+### Special features:
++ Best scores are stored on cloud
++ Intuitive effect sounds
++ Support Java applet to be run on web browser
+
+
+### Hot keys:
 <table>
 	<tr>
 		<td>Z</td><td>Rotate Right</td>
